@@ -9,6 +9,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class SpringSecurityJpaApplication {
 
 	public static void main(String[] args) {
+		//Master
 		SpringApplication.run(SpringSecurityJpaApplication.class, args);
 	}
 
